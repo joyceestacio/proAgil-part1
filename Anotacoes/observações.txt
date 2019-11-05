@@ -71,6 +71,12 @@ http://www.macoratti.net/18/06/ang_diret1.htm
 1) importar no APP.MODULE.TS no IMPORTS HttpClientModule
 2) no componente .ts dentro do construtor eu vou injetar o http 
 
-parei na aula 27
+# Interpolação {{}}
+back  p/ front (back exibindo no front)
+
+# Two-way data Binding [()]
+
+# Binding []
+
 
 

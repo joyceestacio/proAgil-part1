@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joyce.diniz\\Desktop\\DOTNETCORE\\proagil.webapi\\ProAgil.WebAPI.csproj": {}
+    "C:\\Users\\joyce.diniz\\Desktop\\DOTNETCORE\\ProAgil.WebAPI\\ProAgil.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joyce.diniz\\Desktop\\DOTNETCORE\\proagil.webapi\\ProAgil.WebAPI.csproj": {
+    "C:\\Users\\joyce.diniz\\Desktop\\DOTNETCORE\\ProAgil.WebAPI\\ProAgil.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joyce.diniz\\Desktop\\DOTNETCORE\\proagil.webapi\\ProAgil.WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\joyce.diniz\\Desktop\\DOTNETCORE\\ProAgil.WebAPI\\ProAgil.WebAPI.csproj",
         "projectName": "ProAgil.WebAPI",
-        "projectPath": "C:\\Users\\joyce.diniz\\Desktop\\DOTNETCORE\\proagil.webapi\\ProAgil.WebAPI.csproj",
+        "projectPath": "C:\\Users\\joyce.diniz\\Desktop\\DOTNETCORE\\ProAgil.WebAPI\\ProAgil.WebAPI.csproj",
         "packagesPath": "C:\\Users\\joyce.diniz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joyce.diniz\\Desktop\\DOTNETCORE\\proagil.webapi\\obj\\",
+        "outputPath": "C:\\Users\\joyce.diniz\\Desktop\\DOTNETCORE\\ProAgil.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
